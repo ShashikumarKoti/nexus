@@ -17,4 +17,8 @@ private static void greet() {
 String msg = "Good morning!"
 }
 
+public void needToRestore() {
+
+}
+
 }
