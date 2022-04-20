@@ -6,7 +6,7 @@ public static void main(String [] args) {
 }	
 	
 private static void display() {
-String str1 = "Shashi";
+String str1 = "ShashiKoti";
 String str2 = "Shwetha";
 }
 	
