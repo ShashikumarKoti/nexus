@@ -9,5 +9,9 @@ private static void display() {
 String str1 = "Shashikumar";
 String str2 = "Shwetha";
 }
-	
+
+private static void greet() {
+String msg = "Good morning!"
+}
+
 }
